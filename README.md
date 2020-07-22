@@ -19,4 +19,4 @@ Collaborators of this effort include:
 9. Supriya Chinthavali, Oak Ridge National Laboratory
 10. William S. Hlavacek, Theoretical Biology and Biophysics Group, Theoretical Division (T-6), Los Alamos National Laboratory<br>
 
-*All the correspondance should be send to Yen Ting Lin (yentingl@lanl.gov)
+*Corresponding author: Yen Ting Lin (yentingl@lanl.gov)
