@@ -8,7 +8,7 @@ This repository archives predictions from models for regional COVID-19 epidemics
 The methodology is described in ```/methodology/Manuscript-draft.pdf```. This repository only archives the compartmental model described in the manuscript.
 
 Collaborators of this effort include:
-1. Yen Ting Lin, Information Sciences Group, Computer, Computational and Statistical Sciences Division (CCS-3), Los Alamos National Laboratory
+1. Yen Ting Lin*, Information Sciences Group, Computer, Computational and Statistical Sciences Division (CCS-3), Los Alamos National Laboratory
 2. Jacob Neumann, Department of Biological Sciences, Northern Arizona University
 3. Ely F. Miller, Department of Biological Sciences, Northern Arizona University
 4. Richard G. Posner, Department of Biological Sciences, Northern Arizona University
@@ -17,5 +17,6 @@ Collaborators of this effort include:
 7. Jaideep Ray, Sandia National Laboratory
 8. Gautum Thakur, Oak Ridge National Laboratory
 9. Supriya Chinthavali, Oak Ridge National Laboratory
-10. William S. Hlavacek, Theoretical Biology and Biophysics Group, Theoretical Division (T-6), Los Alamos National Laboratory
-All the correspondance should be send to Yen Ting Lin (yentingl@lanl.gov)
+10. William S. Hlavacek, Theoretical Biology and Biophysics Group, Theoretical Division (T-6), Los Alamos National Laboratory<br>
+
+*All the correspondance should be send to Yen Ting Lin (yentingl@lanl.gov)
