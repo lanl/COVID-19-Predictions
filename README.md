@@ -5,7 +5,7 @@ This is a research product of the U.S. Department of Energy (DOE) Office of Scie
 
 This repository archives predictions from models for regional COVID-19 epidemics. Bayesian inference is used to quantify uncertainty in daily forecasts of expected reporting of new cases, enabling identification of new trends in surveillance data.
 
-The methodology is described in ```/methodology/Manuscript-draft.pdf```. This repository only archives the compartmental model described in the manuscript.
+The methodology is described in ```/methodology/Manuscript-draft.pdf```. This repository only archives the compartmental model described in the manuscript. A preprint is available: https://arxiv.org/abs/2007.12523
 
 Collaborators of this effort include:
 1. Yen Ting Lin*, Information Sciences Group, Computer, Computational and Statistical Sciences Division (CCS-3), Los Alamos National Laboratory
