@@ -16,18 +16,33 @@ As the COVID-19 pandemic continues to unravel across the United States, the task
 Under ```countdown```, we summarize our findings with a table that provides the additional number of vaccinations needed for each MSA to reach herd immunity. The herd immunity threshold (HIT) can be obtained for each MSA by a simple relationship with R0; in particular, HIT = 1-1/R0. By using Bayesian uncertainty quantification and extracting data on completed vaccinations from CovidActNow, we were able to calculate the number of additional vaccines that would have to be administered within each MSA in order for the corresponding subpopulation to reach herd immunity.
 
 The column descriptors for the table are provided below:
+
 Column 1: Ranking of MSA (from greatest to least in population size)
+
 Column 2: Name of the Metropolitan Statistical Area (MSA)
+
 Column 3: Median estimate of R0
+
 Column 4: Estimate for the lower endpoint of the equal-tailed credible interval of R0
+
 Column 5: Estimate for the upper endpoint of the equal-tailed credible interval of R0
+
 Column 6: Median estimate of HIT
+
 Column 7: Estimate for the lower endpoint of the equal-tailed credible interval of HIT
+
 Column 8: Estimate for the upper endpoint of the equal-tailed credible interval of HIT
+
 Column 9: Median estimate of the proportion of additional vaccinations necessary to reach herd immunity, using the detected number of new cases
+
 Column 10: Lower endpoint estimate of the proportion of additional vaccinations necessary to reach herd immunity, using the detected number of new cases
+
 Column 11: Upper endpoint estimate of the proportion of additional vaccinations necessary to reach herd immunity, using the detected number of new cases
+
 Column 12: Median estimate of the proportion of additional vaccinations necessary to reach herd immunity, using the inferred number of new cases
+
 Column 13: Lower endpoint estimate of the proportion of additional vaccinations necessary to reach herd immunity, using the inferred number of new cases
+
 Column 14: Upper endpoint estimate of the proportion of additional vaccinations necessary to reach herd immunity, using the inferred number of new cases
+
 Column 15: the additional number of vaccinations needed to reach herd immunity
