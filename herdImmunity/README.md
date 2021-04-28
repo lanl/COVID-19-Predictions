@@ -17,7 +17,7 @@ Under ```countdown```, we summarize our findings with a table that provides the 
 
 The column descriptors for the table are provided below:
 
-Column 1: Ranking of MSA (from greatest to least in population size)
+Column 1: Ranking of MSA (from greatest to least in population size). Reference: https://en.wikipedia.org/wiki/List_of_metropolitan_statistical_areas
 
 Column 2: Name of the Metropolitan Statistical Area (MSA)
 
