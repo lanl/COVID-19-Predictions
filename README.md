@@ -59,4 +59,4 @@ We also perform model selection between the multi-phase models. The best model i
 
 In other (related) work, we provide estimates of COVID-19 Herd Immunity Thresholds in Metropolitan Statistical Areas (MSAs) across the United States. 
 
-Information corresponding to this work can be found in ```/herdImmunity```. A manuscript for this work is currently in preparation.
+Information about this work can be found in ```/herdImmunity```. A manuscript for this work is currently in preparation.
