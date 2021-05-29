@@ -17,7 +17,7 @@ Under ```herdImmunity```, we summarize our findings with a table that provides t
 
 The column descriptors for the table are provided below:
 
-Column 1: Name of the Metropolitan Statistical Area (MSA)
+Column 1: Name of the Metropolitan Statistical Area (MSA) - Reference: https://en.wikipedia.org/wiki/List_of_metropolitan_statistical_areas
 
 Column 2: Detected number of cumulative new cases 
 
