@@ -25,4 +25,4 @@ Column 3: Model-inferred number of cumulative new cases
 
 Column 4: Number of completed vaccinations
 
-Column 5: the additional number of vaccinations needed to reach herd immunity
+Column 5: Number of additional vaccinations needed to reach herd immunity
