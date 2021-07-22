@@ -1,4 +1,4 @@
-# COVID-19-Predictions
+# Herd Immunity
 COVID-19 Herd Immunity Thresholds in Metropolitan Statistical Areas (MSAs) across the United States
 
 Contributors to this effort include the following researchers:
