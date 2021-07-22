@@ -13,20 +13,4 @@ Contributors to this effort include the following researchers:
 
 ### Overview
 
-When will the ongoing COVID-19 vaccination campaign allow the United States (US) to safely end nonpharmaceutical interventions? The answer depends partly on the herd immunity threshold (HIT), which is a function of the basic reproduction number R_0, which characterizes disease transmission dynamics within a naïve population in the absence of any intervention. Because these dynamics are population-specific, the vaccination penetrance required to reach herd immunity may vary from community to community. Here, using Bayesian inference, we parameterized a compartmental model with regional surveillance data available for each of the 384 metropolitan statistical areas (MSAs) in the US. This procedure allowed us to obtain MSA-specific R_0 and HIT estimates, as well as information about how the number of COVID-19 cases reported for each region relates to the actual disease burden.  Using these results, we can determine the number of vaccinations required to reach herd immunity in each US MSA.
-
-Under ```herdImmunity```, we summarize our findings with a table that provides the additional number of vaccinations needed for each MSA to reach herd immunity. The herd immunity threshold (HIT) can be obtained for each MSA by a simple relationship with R0; in particular, HIT = 1 - 1/R_0.
-
-The column descriptors for the table are provided below:
-
-Column 1: Name of the Metropolitan Statistical Area (MSA) - Reference: https://en.wikipedia.org/w/index.php?title=List_of_metropolitan_statistical_areas&oldid=1002583892
-
-Column 2: Detected number of cumulative new cases 
-
-Column 3: Model-inferred number of cumulative new cases 
-
-Column 4: Number of completed vaccinations
-
-Column 5: Number of additional vaccinations needed to reach herd immunity
-
-Column 6: Progress to herd immunity (as a percentage of the herd immunity threshold)
+When will the ongoing COVID-19 vaccination campaign allow the United States (US) to safely end nonpharmaceutical interventions? The answer depends partly on the herd immunity threshold (HIT), which is a function of the basic reproduction number, which characterizes disease transmission dynamics within a naïve population in the absence of any intervention. Because these dynamics are population-specific, the vaccination penetrance required to reach herd immunity may vary from community to community. Here, using Bayesian inference, we parameterized a compartmental model with regional surveillance data available for each of the 50 states and 384 metropolitan statistical areas (MSAs) in the US. This procedure allowed us to obtain MSA-specific R_0 and HIT estimates. Using this information and estimates of actual disease burden, we can determine the number of vaccinations required to reach herd immunity in each state and US MSA.
