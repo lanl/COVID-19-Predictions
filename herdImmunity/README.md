@@ -34,6 +34,6 @@ Column 1: Name of the state or MSA; reference for MSAs: https://en.wikipedia.org
 Column 2: Population size of the state or MSA<br>
 Column 3: The herd immunity threshold (HIT) for a given region, given by HIT = 1 - 1/R<sub>0</sub><br>
 Column 4: Our estimate for the population fraction with natural immunity, which is informed by seroprevalence data<br>
-Column 5: The fraction of the population that has been vaccinated, which is given by vaccination data from the CovidActNow API<br>
+Column 5: The fraction of the population that has been vaccinated, which is given by vaccination data from the CovidActNow API: https://apidocs.covidactnow.org<br>
 Column 6: The vaccine countdown number for a given region<br>
 Column 7: Progress to herd immunity (as a percentage of the herd immunity threshold number of persons)<br>
