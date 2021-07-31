@@ -1,5 +1,5 @@
 # Herd Immunity
-COVID-19 Herd Immunity Thresholds in States and Metropolitan Statistical Areas (MSAs) across the United States
+COVID-19 Herd Immunity Thresholds across the United States
 
 Contributors to this effort include the following researchers:
 1. Abhishek Mallela, Department of Mathematics, University of California Davis
