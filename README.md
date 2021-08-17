@@ -54,9 +54,3 @@ and a two-phase model which assumed a change of behavior at an unknown time:<br>
 We are able to infer from the data that with 95% probability, a behavioral change of the population occurred between 2020-05-20 and 2020-05-27. Our inferred result is consistent with the fact that the stay-at-home order of the State of Arizona expired on 2020-05-15.
 
 We also perform model selection between the multi-phase models. The best model is used to predict the progression two weeks into the future.
-
-### Related work
-
-In other (related) work, we provide estimates of COVID-19 Herd Immunity Thresholds across the United States. 
-
-Information about this work can be found in ```/herdImmunity```. A manuscript for this work is currently in preparation.
